@@ -1,2 +1,2 @@
-# bible-pdfs.github.io
-Free Public Domain Bible PDFs
+# Bible-Pdfs
+Misc Public Domain Bible PDFs
